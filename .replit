@@ -1,0 +1,3 @@
+language = "bash"
+run = "cd ecomTest && npm run start"
+
