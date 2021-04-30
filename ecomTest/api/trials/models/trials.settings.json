@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "trials",
+  "info": {
+    "name": "trials"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "booking": {
+      "type": "json"
+    }
+  }
+}
